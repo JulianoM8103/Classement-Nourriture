@@ -1,0 +1,10 @@
+body {
+    background-image:url("../img/BodyPlan.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgintro {
+    height: 400px;
+}
