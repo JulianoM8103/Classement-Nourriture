@@ -4,3 +4,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.Logo {
+    float: right;
+    animation: fadeInBottomLeft;
+    animation-duration: 2s;
+}
