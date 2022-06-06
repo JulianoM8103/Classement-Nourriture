@@ -37,3 +37,13 @@
     animation: lightSpeedInLeft;
     animation-duration: 4.5s;
 }
+
+.Intro2 {
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    animation: lightSpeedInLeft;
+    animation-duration: 4.5s;
+}

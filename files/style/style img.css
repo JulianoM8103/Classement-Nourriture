@@ -10,3 +10,8 @@ body {
     animation: fadeInBottomLeft;
     animation-duration: 2s;
 }
+
+.Git {
+    height: 100px;
+    width: 150px;
+}
