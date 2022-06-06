@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .Title {
     color: white;
     text-align: center;
@@ -47,7 +46,8 @@
     font-style: italic;
     animation: lightSpeedInLeft;
     animation-duration: 4.5s;
-=======
+}
+
 .Title {
     color: white;
     text-align: center;
@@ -76,5 +76,4 @@
     font-style: italic;
     animation: lightSpeedInLeft;
     animation-duration: 4.5s;
->>>>>>> 950166fbfe9b7d035c352af87942edac81a9cba9
 }
