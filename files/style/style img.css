@@ -10,3 +10,8 @@ body {
     animation: fadeInBottomLeft;
     animation-duration: 2s;
 }
+
+.Aliment {
+    height: 150px;
+    width: 125px;
+}
