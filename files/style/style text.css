@@ -1,3 +1,5 @@
+/* Début du css pour le Index.html */
+
 .Title {
     color: white;
     text-align: center;
@@ -77,3 +79,11 @@
     animation: lightSpeedInLeft;
     animation-duration: 4.5s;
 }
+
+/* Fin du css pour Index.html */
+
+
+/* Début du css pour Catégories d'aliments.html */
+
+
+/* Fin du css pour Catégories d'aliments.html */
